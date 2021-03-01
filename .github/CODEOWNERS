@@ -1,3 +1,4 @@
+/.github/CODEOWNERS          @star-bnl-user
 /OnlTools                    @kehw
 /StDb                        @dmarkh
 /StRoot/RTS                  @kehw
