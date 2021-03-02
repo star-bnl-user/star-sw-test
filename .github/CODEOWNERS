@@ -11,6 +11,7 @@
 /StRoot/StDbUtilities        @fisyak
 /StRoot/StDetectorDbMaker    @dmarkh      @fisyak
 /StRoot/StEvent*             @klendathu2k @ullrich-bnl
+/StRoot/StGenericVertexMaker @plexoos
 /StRoot/StHeavyPool          @starsdong   @ullrich-bnl @fgeurts
 /StRoot/StHighPtTagsMaker    @ullrich-bnl
 /StRoot/StMiniDstMaker       @ullrich-bnl
